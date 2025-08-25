@@ -11,6 +11,7 @@ h1,h2 {
     border-radius: 20%;
     border: 10px solid black;
     margin: 1rem 1rem;
+    
 }
 .btn-container {
     display: flex;
